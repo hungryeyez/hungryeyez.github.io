@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sabrinaashleigh.github.io" resolutions="1x,2x" timestamp="1527204203421">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hungryeyez.github.io" resolutions="1x,2x" timestamp="1527205418549">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_c-master-_black_.css" crc="115710095" ref="feedback:the-fast-food-experience"/>
@@ -463,7 +463,7 @@
   <file name="index.html" crc="271848550" seo="true" mt="1527186551213" redirect="true"/>
   <file name="menu.html" crc="4101071842" seo="true" mt="1516602540891" redirect="true"/>
   <file name="buffet.html" crc="4169240197" seo="true" mt="1516602540897" redirect="true"/>
-  <file name="newsletter.html" crc="29074972" seo="true" mt="1527204143422" redirect="true"/>
+  <file name="newsletter.html" crc="200691731" seo="true" mt="1527205344448" redirect="true"/>
   <file name="find-us.html" crc="336354848" seo="true" mt="1527186551213" redirect="true"/>
   <file name="the-fast-food-experience.html" crc="223428636" seo="true" mt="1527186657981" redirect="true"/>
   <file name="food-for-thought.html" crc="201454552" seo="true" mt="1527204060274" redirect="true"/>
