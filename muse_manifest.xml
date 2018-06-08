@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hungryeyez.github.io" resolutions="1x,2x" timestamp="1528432531095">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hungryeyez.github.io" resolutions="1x,2x" timestamp="1528433585616">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_c-master-_black_.css" crc="351336242" ref="feedback"/>
-    <file name="master_a-master.css" crc="365449992" ref="index:find-us"/>
+    <file name="master_a-master.css" crc="4179741762" ref="index:find-us"/>
     <file name="feedback.css" crc="4070309473" ref="feedback"/>
     <file name="buffet.css" crc="521176066" ref="buffet"/>
-    <file name="food-for-thought.css" crc="330208023" ref="food-for-thought"/>
+    <file name="food-for-thought.css" crc="118602451" ref="food-for-thought"/>
     <file name="jukebox.css" crc="87057897" ref="jukebox"/>
     <file name="newsletter.css" crc="4226840086" ref="newsletter"/>
     <file name="index.css" crc="4268850152" ref="index"/>
-    <file name="find-us.css" crc="4023268312" ref="find-us"/>
+    <file name="find-us.css" crc="177883955" ref="find-us"/>
     <file name="menu.css" crc="330956296" ref="menu"/>
   </folder>
   <folder name="fonts">
@@ -39,7 +39,7 @@
     <file name="tumblr_static_31.jpg" crc="4098069050" ref="index:find-us">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u198.png" crc="206634805" ref="index:find-us"/>
+    <file name="u198.png" crc="3988890789" ref="index:find-us"/>
     <file name="u198_2x.png" crc="229395010" ref="index:find-us"/>
     <file name="u198-r.png" crc="4050881960" ref="index:find-us"/>
     <file name="u198-r_2x.png" crc="407181091" ref="index:find-us"/>
@@ -456,6 +456,18 @@
     <file name="outerspacestoryboard_2x.gif" crc="281140229" seo="true" ref="food-for-thought">
       <caption webpage="food-for-thought" alt=""/>
     </file>
+    <file name="comicads_chewinggum3.jpg" crc="4131353979" seo="true" ref="food-for-thought">
+      <caption webpage="food-for-thought" alt=""/>
+    </file>
+    <file name="icecream1.jpg" crc="524888791" seo="true" ref="food-for-thought">
+      <caption webpage="food-for-thought" alt=""/>
+    </file>
+    <file name="diet-metrecal.jpg" crc="268295484" seo="true" ref="food-for-thought">
+      <caption webpage="food-for-thought" alt=""/>
+    </file>
+    <file name="diet-metrecal_2x.jpg" crc="4208719889" seo="true" ref="food-for-thought">
+      <caption webpage="food-for-thought" alt=""/>
+    </file>
     <file name="tumblr_oz3zh0milo1wyeil0o1_500.gif" crc="3896833416" seo="true" ref="jukebox">
       <caption webpage="jukebox" alt=""/>
     </file>
@@ -474,12 +486,12 @@
     <file name="u11498-4.png" crc="4158592290" ref="feedback"/>
     <file name="u11498-4_2x.png" crc="4145802249" ref="feedback"/>
   </folder>
-  <file name="index.html" crc="3862137326" seo="true" mt="1528431334668" redirect="true"/>
+  <file name="index.html" crc="4113048033" seo="true" mt="1528433487866" redirect="true"/>
   <file name="menu.html" crc="4101071842" seo="true" mt="1516602540891" redirect="true"/>
   <file name="buffet.html" crc="4169240197" seo="true" mt="1516602540897" redirect="true"/>
   <file name="newsletter.html" crc="4070984931" seo="true" mt="1528431334394" redirect="true"/>
-  <file name="find-us.html" crc="4045611184" seo="true" mt="1528432200825" redirect="true"/>
-  <file name="food-for-thought.html" crc="213037792" seo="true" mt="1528432102260" redirect="true"/>
+  <file name="find-us.html" crc="4008354192" seo="true" mt="1528433503393" redirect="true"/>
+  <file name="food-for-thought.html" crc="532499720" seo="true" mt="1528433404617" redirect="true"/>
   <file name="jukebox.html" crc="408678486" seo="true" mt="1510640576397" redirect="true"/>
   <file name="feedback.html" crc="4141688518" seo="true" mt="1528431334533" redirect="true"/>
 </manifest>

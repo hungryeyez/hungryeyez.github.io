@@ -296,6 +296,18 @@
     <image:image>
       <image:loc>http://hungryeyez.github.io/images/outerspacestoryboard_2x.gif</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://hungryeyez.github.io/images/comicads_chewinggum3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hungryeyez.github.io/images/icecream1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hungryeyez.github.io/images/diet-metrecal.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hungryeyez.github.io/images/diet-metrecal_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://hungryeyez.github.io/find-us.html</loc>
