@@ -1,16 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hungryeyez.github.io" resolutions="1x,2x" timestamp="1527205418549">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hungryeyez.github.io" resolutions="1x,2x" timestamp="1528432531095">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_c-master-_black_.css" crc="115710095" ref="feedback:the-fast-food-experience"/>
-    <file name="master_a-master.css" crc="33711345" ref="index:find-us"/>
-    <file name="feedback.css" crc="326717340" ref="feedback"/>
-    <file name="index.css" crc="450093163" ref="index"/>
-    <file name="the-fast-food-experience.css" crc="473750508" ref="the-fast-food-experience"/>
-    <file name="food-for-thought.css" crc="119609318" ref="food-for-thought"/>
-    <file name="jukebox.css" crc="87057897" ref="jukebox"/>
-    <file name="newsletter.css" crc="3873342439" ref="newsletter"/>
-    <file name="find-us.css" crc="4032916045" ref="find-us"/>
+    <file name="master_c-master-_black_.css" crc="351336242" ref="feedback"/>
+    <file name="master_a-master.css" crc="365449992" ref="index:find-us"/>
+    <file name="feedback.css" crc="4070309473" ref="feedback"/>
     <file name="buffet.css" crc="521176066" ref="buffet"/>
+    <file name="food-for-thought.css" crc="330208023" ref="food-for-thought"/>
+    <file name="jukebox.css" crc="87057897" ref="jukebox"/>
+    <file name="newsletter.css" crc="4226840086" ref="newsletter"/>
+    <file name="index.css" crc="4268850152" ref="index"/>
+    <file name="find-us.css" crc="4023268312" ref="find-us"/>
     <file name="menu.css" crc="330956296" ref="menu"/>
   </folder>
   <folder name="fonts">
@@ -22,15 +21,15 @@
     <file name="susan-bordo--unberable-weight-excerpt.pdf" crc="180980990" seo="true" mt="1510635063000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:menu:buffet:newsletter:find-us:the-fast-food-experience:food-for-thought:jukebox:feedback"/>
-    <file name="museutils.js" crc="3803043152" ref="index:menu:buffet:newsletter:find-us:the-fast-food-experience:food-for-thought:jukebox:feedback"/>
-    <file name="whatinput.js" crc="86476730" ref="index:menu:buffet:newsletter:find-us:the-fast-food-experience:food-for-thought:jukebox:feedback"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:menu:buffet:newsletter:find-us:the-fast-food-experience:food-for-thought:jukebox:feedback"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:find-us:the-fast-food-experience:feedback"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:newsletter:find-us:the-fast-food-experience:food-for-thought:feedback"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:menu:buffet:newsletter:find-us:the-fast-food-experience:food-for-thought:jukebox:feedback"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:menu:buffet:newsletter:find-us:the-fast-food-experience:food-for-thought:jukebox:feedback"/>
-    <file name="require.js" crc="4157109226" ref="index:menu:buffet:newsletter:find-us:the-fast-food-experience:food-for-thought:jukebox:feedback"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:menu:buffet:newsletter:find-us:food-for-thought:jukebox:feedback"/>
+    <file name="museutils.js" crc="3803043152" ref="index:menu:buffet:newsletter:find-us:food-for-thought:jukebox:feedback"/>
+    <file name="whatinput.js" crc="86476730" ref="index:menu:buffet:newsletter:find-us:food-for-thought:jukebox:feedback"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:menu:buffet:newsletter:find-us:food-for-thought:jukebox:feedback"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:find-us:feedback"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:newsletter:find-us:food-for-thought:feedback"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:menu:buffet:newsletter:find-us:food-for-thought:jukebox:feedback"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:menu:buffet:newsletter:find-us:food-for-thought:jukebox:feedback"/>
+    <file name="require.js" crc="4157109226" ref="index:menu:buffet:newsletter:find-us:food-for-thought:jukebox:feedback"/>
     <file name="webpro.js" crc="242022427" ref="food-for-thought"/>
     <file name="musewpslideshow.js" crc="457073769" ref="food-for-thought"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="food-for-thought"/>
@@ -54,16 +53,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="find-us" alt=""/>
     </file>
-    <file name="arrowmenudown.png" crc="262559161" ref="index:newsletter:the-fast-food-experience:food-for-thought">
+    <file name="arrowmenudown.png" crc="262559161" ref="index:newsletter:food-for-thought:feedback">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="the-fast-food-experience" alt=""/>
-      <caption webpage="the-fast-food-experience" alt=""/>
-      <caption webpage="the-fast-food-experience" alt=""/>
       <caption webpage="newsletter" alt=""/>
       <caption webpage="newsletter" alt=""/>
       <caption webpage="newsletter" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
       <caption webpage="food-for-thought" alt=""/>
       <caption webpage="food-for-thought" alt=""/>
       <caption webpage="food-for-thought" alt=""/>
@@ -134,6 +133,12 @@
     <file name="u3532-r_2x.png" crc="4255638463" ref="index"/>
     <file name="u3532-m.png" crc="3943437026" ref="index"/>
     <file name="u3532-m_2x.png" crc="128625971" ref="index"/>
+    <file name="hungryeyestitle.gif" crc="392280635" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hungryeyestitle_2x.gif" crc="392280635" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="5a08e420ab4e0817872142.gif" crc="92118983" seo="true" ref="menu">
       <caption webpage="menu" alt=""/>
     </file>
@@ -436,10 +441,19 @@
     <file name="tumblr_n600zecdmn1sflac9o1_500_2x.gif" crc="129881810" seo="true" ref="newsletter">
       <caption webpage="newsletter" alt=""/>
     </file>
-    <file name="tumblr_lewes2oj3s1qcoypuo1_500.gif" crc="3861755765" ref="the-fast-food-experience">
-      <caption webpage="the-fast-food-experience" alt=""/>
+    <file name="poster33 copy.jpg" crc="3763793692" seo="true" ref="find-us">
+      <caption webpage="find-us" alt=""/>
+    </file>
+    <file name="poster33 copy_2x.jpg" crc="4112346680" seo="true" ref="find-us">
+      <caption webpage="find-us" alt=""/>
     </file>
     <file name="giphy.gif" crc="4097094599" seo="true" ref="food-for-thought">
+      <caption webpage="food-for-thought" alt=""/>
+    </file>
+    <file name="outerspacestoryboard.gif" crc="281140229" seo="true" ref="food-for-thought">
+      <caption webpage="food-for-thought" alt=""/>
+    </file>
+    <file name="outerspacestoryboard_2x.gif" crc="281140229" seo="true" ref="food-for-thought">
       <caption webpage="food-for-thought" alt=""/>
     </file>
     <file name="tumblr_oz3zh0milo1wyeil0o1_500.gif" crc="3896833416" seo="true" ref="jukebox">
@@ -460,13 +474,12 @@
     <file name="u11498-4.png" crc="4158592290" ref="feedback"/>
     <file name="u11498-4_2x.png" crc="4145802249" ref="feedback"/>
   </folder>
-  <file name="index.html" crc="271848550" seo="true" mt="1527186551213" redirect="true"/>
+  <file name="index.html" crc="3862137326" seo="true" mt="1528431334668" redirect="true"/>
   <file name="menu.html" crc="4101071842" seo="true" mt="1516602540891" redirect="true"/>
   <file name="buffet.html" crc="4169240197" seo="true" mt="1516602540897" redirect="true"/>
-  <file name="newsletter.html" crc="200691731" seo="true" mt="1527205344448" redirect="true"/>
-  <file name="find-us.html" crc="336354848" seo="true" mt="1527186551213" redirect="true"/>
-  <file name="the-fast-food-experience.html" crc="223428636" seo="true" mt="1527186657981" redirect="true"/>
-  <file name="food-for-thought.html" crc="201454552" seo="true" mt="1527204060274" redirect="true"/>
+  <file name="newsletter.html" crc="4070984931" seo="true" mt="1528431334394" redirect="true"/>
+  <file name="find-us.html" crc="4045611184" seo="true" mt="1528432200825" redirect="true"/>
+  <file name="food-for-thought.html" crc="213037792" seo="true" mt="1528432102260" redirect="true"/>
   <file name="jukebox.html" crc="408678486" seo="true" mt="1510640576397" redirect="true"/>
-  <file name="feedback.html" crc="87218131" seo="true" mt="1527186551408" redirect="true"/>
+  <file name="feedback.html" crc="4141688518" seo="true" mt="1528431334533" redirect="true"/>
 </manifest>
