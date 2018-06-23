@@ -1,24 +1,21 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hungryeyez.github.io" resolutions="1x,2x" timestamp="1528439789217">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hungryeyez.github.io" resolutions="1x,2x" timestamp="1529774727593">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_c-master-_black_.css" crc="351336242" ref="feedback"/>
-    <file name="master_a-master.css" crc="365449992" ref="index:find-us"/>
+    <file name="master_a-master.css" crc="3861935327" ref="index:find-us"/>
+    <file name="master_c-master-_black_.css" crc="3950649324" ref="feedback"/>
+    <file name="menu.css" crc="4216197746" ref="menu"/>
     <file name="feedback.css" crc="4070309473" ref="feedback"/>
     <file name="buffet.css" crc="521176066" ref="buffet"/>
-    <file name="food-for-thought.css" crc="4022903233" ref="food-for-thought"/>
+    <file name="food-for-thought.css" crc="4096514552" ref="food-for-thought"/>
+    <file name="newsletter.css" crc="4198464230" ref="newsletter"/>
+    <file name="index.css" crc="406438379" ref="index"/>
     <file name="jukebox.css" crc="87057897" ref="jukebox"/>
-    <file name="newsletter.css" crc="4226840086" ref="newsletter"/>
-    <file name="index.css" crc="4268850152" ref="index"/>
-    <file name="find-us.css" crc="177883955" ref="find-us"/>
-    <file name="menu.css" crc="330956296" ref="menu"/>
+    <file name="find-us.css" crc="3980200849" ref="find-us"/>
   </folder>
   <folder name="fonts">
     <file name="cheap-motel-webfont.woff" crc="248376212"/>
     <file name="cheap-motel-webfont.eot" crc="170226993"/>
     <file name="cheap-motel-webfont.svg" crc="3863681639"/>
-  </folder>
-  <folder name="assets">
-    <file name="susan-bordo--unberable-weight-excerpt.pdf" crc="180980990" seo="true" mt="1510635063000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:menu:buffet:newsletter:find-us:food-for-thought:jukebox:feedback"/>
@@ -39,7 +36,7 @@
     <file name="tumblr_static_31.jpg" crc="4098069050" ref="index:find-us">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u198.png" crc="206634805" ref="index:find-us"/>
+    <file name="u198.png" crc="3988890789" ref="index:find-us"/>
     <file name="u198_2x.png" crc="229395010" ref="index:find-us"/>
     <file name="u198-r.png" crc="4050881960" ref="index:find-us"/>
     <file name="u198-r_2x.png" crc="407181091" ref="index:find-us"/>
@@ -57,15 +54,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="newsletter" alt=""/>
-      <caption webpage="newsletter" alt=""/>
-      <caption webpage="newsletter" alt=""/>
-      <caption webpage="feedback" alt=""/>
-      <caption webpage="feedback" alt=""/>
-      <caption webpage="feedback" alt=""/>
       <caption webpage="food-for-thought" alt=""/>
       <caption webpage="food-for-thought" alt=""/>
       <caption webpage="food-for-thought" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
     </file>
     <file name="u572.png" crc="196161490" ref="index"/>
     <file name="u572_2x.png" crc="293971765" ref="index"/>
@@ -139,6 +136,10 @@
     <file name="hungryeyestitle_2x.gif" crc="392280635" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u11912.png" crc="4149215971" ref="index"/>
+    <file name="u11912_2x.png" crc="459433034" ref="index"/>
+    <file name="u11912-r.png" crc="4007848802" ref="index"/>
+    <file name="u11912-r_2x.png" crc="279566096" ref="index"/>
     <file name="5a08e420ab4e0817872142.gif" crc="92118983" seo="true" ref="menu">
       <caption webpage="menu" alt=""/>
     </file>
@@ -456,18 +457,6 @@
     <file name="outerspacestoryboard_2x.gif" crc="281140229" seo="true" ref="food-for-thought">
       <caption webpage="food-for-thought" alt=""/>
     </file>
-    <file name="comicads_chewinggum3.jpg" crc="4131353979" seo="true" ref="food-for-thought">
-      <caption webpage="food-for-thought" alt=""/>
-    </file>
-    <file name="icecream1.jpg" crc="524888791" seo="true" ref="food-for-thought">
-      <caption webpage="food-for-thought" alt=""/>
-    </file>
-    <file name="diet-metrecal.jpg" crc="268295484" seo="true" ref="food-for-thought">
-      <caption webpage="food-for-thought" alt=""/>
-    </file>
-    <file name="diet-metrecal_2x.jpg" crc="4208719889" seo="true" ref="food-for-thought">
-      <caption webpage="food-for-thought" alt=""/>
-    </file>
     <file name="tumblr_oz3zh0milo1wyeil0o1_500.gif" crc="3896833416" seo="true" ref="jukebox">
       <caption webpage="jukebox" alt=""/>
     </file>
@@ -486,12 +475,12 @@
     <file name="u11498-4.png" crc="4158592290" ref="feedback"/>
     <file name="u11498-4_2x.png" crc="4145802249" ref="feedback"/>
   </folder>
-  <file name="index.html" crc="211287312" seo="true" mt="1528433487866" redirect="true"/>
-  <file name="menu.html" crc="4101071842" seo="true" mt="1516602540891" redirect="true"/>
+  <file name="index.html" crc="136802429" seo="true" mt="1529774654041" redirect="true"/>
+  <file name="menu.html" crc="4132541318" seo="true" mt="1516602540891" redirect="true"/>
   <file name="buffet.html" crc="4169240197" seo="true" mt="1516602540897" redirect="true"/>
-  <file name="newsletter.html" crc="4070984931" seo="true" mt="1528431334394" redirect="true"/>
-  <file name="find-us.html" crc="3929769356" seo="true" mt="1528433503393" redirect="true"/>
-  <file name="food-for-thought.html" crc="285927492" seo="true" mt="1528439727831" redirect="true"/>
+  <file name="newsletter.html" crc="198974811" seo="true" mt="1529774653772" redirect="true"/>
+  <file name="find-us.html" crc="478123132" seo="true" mt="1529774654041" redirect="true"/>
+  <file name="food-for-thought.html" crc="4196399997" seo="true" mt="1529774653613" redirect="true"/>
   <file name="jukebox.html" crc="408678486" seo="true" mt="1510640576397" redirect="true"/>
-  <file name="feedback.html" crc="4141688518" seo="true" mt="1528431334533" redirect="true"/>
+  <file name="feedback.html" crc="3903132658" seo="true" mt="1529774653922" redirect="true"/>
 </manifest>

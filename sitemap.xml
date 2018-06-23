@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://hungryeyez.github.io/index.html</loc>
-    <lastmod>2018-06-07</lastmod>
+    <lastmod>2018-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -19,63 +19,6 @@
     </image:image>
     <image:image>
       <image:loc>http://hungryeyez.github.io/images/hungryeyestitle_2x.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hungryeyez.github.io/newsletter.html</loc>
-    <lastmod>2018-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://hungryeyez.github.io/images/tumblr_static_tumblr_static__640.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hungryeyez.github.io/images/giphy-1.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hungryeyez.github.io/images/giphy-12.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hungryeyez.github.io/images/giphy-1_2x.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hungryeyez.github.io/images/tumblr_n31sy8dvaq1t3gb1xo1_400.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hungryeyez.github.io/images/computer-mouse-arrow-clipart-4tbg59gtg.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hungryeyez.github.io/images/computer-mouse-arrow-clipart-4tbg59gtg_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hungryeyez.github.io/images/source.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hungryeyez.github.io/images/source-1.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hungryeyez.github.io/images/tumblr_mxnwsidf521rd9jm5o1_250.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hungryeyez.github.io/images/tumblr_n1g5u4k9em1svwlszo1_500.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hungryeyez.github.io/images/everything-is-so-dull.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hungryeyez.github.io/images/original.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hungryeyez.github.io/images/tumblr_static_love_this.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hungryeyez.github.io/images/tumblr_oxu4lqltwd1vxu8n6o1_500.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hungryeyez.github.io/images/tumblr_n600zecdmn1sflac9o1_500.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hungryeyez.github.io/images/tumblr_n600zecdmn1sflac9o1_500_2x.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -283,35 +226,65 @@
     </image:image>
   </url>
   <url>
-    <loc>http://hungryeyez.github.io/food-for-thought.html</loc>
-    <lastmod>2018-06-07</lastmod>
+    <loc>http://hungryeyez.github.io/newsletter.html</loc>
+    <lastmod>2018-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://hungryeyez.github.io/images/giphy.gif</image:loc>
+      <image:loc>http://hungryeyez.github.io/images/tumblr_static_tumblr_static__640.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hungryeyez.github.io/images/outerspacestoryboard.gif</image:loc>
+      <image:loc>http://hungryeyez.github.io/images/giphy-1.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hungryeyez.github.io/images/outerspacestoryboard_2x.gif</image:loc>
+      <image:loc>http://hungryeyez.github.io/images/giphy-12.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hungryeyez.github.io/images/comicads_chewinggum3.jpg</image:loc>
+      <image:loc>http://hungryeyez.github.io/images/giphy-1_2x.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hungryeyez.github.io/images/icecream1.jpg</image:loc>
+      <image:loc>http://hungryeyez.github.io/images/tumblr_n31sy8dvaq1t3gb1xo1_400.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hungryeyez.github.io/images/diet-metrecal.jpg</image:loc>
+      <image:loc>http://hungryeyez.github.io/images/computer-mouse-arrow-clipart-4tbg59gtg.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hungryeyez.github.io/images/diet-metrecal_2x.jpg</image:loc>
+      <image:loc>http://hungryeyez.github.io/images/computer-mouse-arrow-clipart-4tbg59gtg_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hungryeyez.github.io/images/source.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hungryeyez.github.io/images/source-1.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hungryeyez.github.io/images/tumblr_mxnwsidf521rd9jm5o1_250.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hungryeyez.github.io/images/tumblr_n1g5u4k9em1svwlszo1_500.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hungryeyez.github.io/images/everything-is-so-dull.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hungryeyez.github.io/images/original.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hungryeyez.github.io/images/tumblr_static_love_this.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hungryeyez.github.io/images/tumblr_oxu4lqltwd1vxu8n6o1_500.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hungryeyez.github.io/images/tumblr_n600zecdmn1sflac9o1_500.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hungryeyez.github.io/images/tumblr_n600zecdmn1sflac9o1_500_2x.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://hungryeyez.github.io/find-us.html</loc>
-    <lastmod>2018-06-07</lastmod>
+    <lastmod>2018-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -325,6 +298,21 @@
     </image:image>
     <image:image>
       <image:loc>http://hungryeyez.github.io/images/poster33%20copy_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://hungryeyez.github.io/food-for-thought.html</loc>
+    <lastmod>2018-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hungryeyez.github.io/images/giphy.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hungryeyez.github.io/images/outerspacestoryboard.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hungryeyez.github.io/images/outerspacestoryboard_2x.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -347,13 +335,7 @@
   </url>
   <url>
     <loc>http://hungryeyez.github.io/feedback.html</loc>
-    <lastmod>2018-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hungryeyez.github.io/assets/susan-bordo--unberable-weight-excerpt.pdf</loc>
-    <lastmod>2017-11-13</lastmod>
+    <lastmod>2018-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
